@@ -45,7 +45,6 @@ class Receptor:
     def recibir(self, paquete):
         # Simula la recepción del paquete por el receptor
         print("Paquete recibido por el receptor:", paquete)
-        # Procesar el paquete, aquí puedes implementar la lógica necesaria
 
 # Clase que representa un paquete UDP con encabezado y cola
 class PaqueteUDP:
